@@ -247,7 +247,10 @@ python policy-handler.py
 
 ![image](https://user-images.githubusercontent.com/112861813/200235334-70d136a8-9259-47aa-8c0d-de6c70083062.png)
 
-- Table 모델링 (Warehouse)
+- Table 모델링 (Delivery)
+
+![image](https://user-images.githubusercontent.com/112861813/200235873-aeef20de-f94e-43e8-b444-b6286c4194d6.png)
+
 
 
 
