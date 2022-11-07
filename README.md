@@ -184,14 +184,14 @@
     - 고객이 배송상태를 중간중간 조회한다 (View-green sticker 의 추가로 ok) 
     - 배송상태가 바뀔 때 마다 카카오톡으로 알림을 보낸다
 
-### 모델 수정
+### 모델 수정 ★ 수정 모델 이미지 업데이트 or 삭제
 
 ![image](https://user-images.githubusercontent.com/487999/79684176-4e4c7800-826a-11ea-8deb-b7b053e5d7c6.png)
     
     - 수정된 모델은 모든 요구사항을 커버함.
-    - ★ 수정 모델 이미지 업데이트 필요
+   
 
-### 비기능 요구사항에 대한 검증
+### 비기능 요구사항에 대한 검증 ★ 수정 모델 이미지 업데이트 or 삭제
 
 ![image](https://user-images.githubusercontent.com/487999/79684184-5c9a9400-826a-11ea-8d87-2ed1e44f4562.png)
 
