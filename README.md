@@ -241,19 +241,11 @@ python policy-handler.py
 
 - Table 모델링 (Reservation)
 
-Column	Description	Type
-reservationId		Long
-customerId		Integer
-reservedTimestamp		Date
-receiverAddress		Address
-receiverPhoneNumber		String
-dueDate		Date
 ![image](https://user-images.githubusercontent.com/112861813/200235059-b2549989-3620-4389-af07-7587e985bc19.png)
 
+- Table 모델링 (Invoice)
 
-
-- Table 모델링 (Delivery)
-
+![image](https://user-images.githubusercontent.com/112861813/200235334-70d136a8-9259-47aa-8c0d-de6c70083062.png)
 
 - Table 모델링 (Warehouse)
 
